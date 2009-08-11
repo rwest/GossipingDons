@@ -1,0 +1,5 @@
+Each of n elderly dons knows a piece of gossip not known to any of the
+others. They communicate by telephone, and in each call the two dons
+concerned reveal to each other all the information they know so far. What is
+the smallest number of calls that can be made in such a way that, at the
+end, all the dons know all the gossip?
