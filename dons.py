@@ -43,4 +43,5 @@ for n in range(2,50):
 	for function in functions:
 		print '%d\t'%function(n),
 	print
+print "psyche rocks"
 
