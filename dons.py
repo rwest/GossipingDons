@@ -43,5 +43,5 @@ for n in range(2,50):
 	for function in functions:
 		print '%d\t'%function(n),
 	print
-print "hello richardpie"+"!"*30
+print "hello Richardpie"+"!"*30
 
